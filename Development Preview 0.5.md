@@ -7,4 +7,4 @@
 -   Updated styling for the "Bulk Edit" icon hover color
 
 **Changes (Plans Page)**
-- Added styling for the "Occasionally Used" section in the settings menu
+- Added styling for the "Occasionally Used" section in the  plans settings menu `(Plans > Actions > Settings)`
