@@ -4,6 +4,17 @@
 **Changes (Plans)**
 - Updated styling for the border around plan images
 - Updated styling for the "CURRENT TRACK" title in the Media Player
+
+  **Before**
+
+  ![current-track-before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/c766202e-f576-45c5-b3b5-0c850fd9d639)
+
+  **After**
+
+  ![current-track-after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/edbe8464-b5bb-4e43-8c09-3b3959cb8aaf)
+
+
+  
 - Added styling for playlist items in the Media Player
 - Updated styling for the needed position left menu section headers
 
