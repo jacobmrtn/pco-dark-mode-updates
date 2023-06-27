@@ -33,7 +33,8 @@
  
 
 **Changes (People)**
-- Updated styling for some of the button colors when viewing a person's profile 
+- Updated styling for some of the button colors when viewing a person's profile
+- Updated styling for the menu when importing people
 
 **General Changes**
 - Added a popup menu with the current version, version release date, and author 
