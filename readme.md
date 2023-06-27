@@ -38,3 +38,15 @@
 **General Changes**
 - Added a popup menu with the current version, version release date, and author 
 - Removed context menu item
+- Updated styling of profile dropdown menu
+
+  **Before**
+
+  ![profile-menu-before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/d0c4547a-6bbe-4b66-83ef-edb1aefd59fa)
+
+
+  **After**
+
+  ![profile-menu-after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/736fec26-ce4a-43e4-a01b-dd58489a7a01)
+
+
