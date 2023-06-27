@@ -35,6 +35,7 @@
 **Changes (People)**
 - Updated styling for some of the button colors when viewing a person's profile
 - Updated styling for the menu when importing people
+- Updated styling for the dropdown menu when searching for people
 
 **General Changes**
 - Added a popup menu with the current version, version release date, and author 
