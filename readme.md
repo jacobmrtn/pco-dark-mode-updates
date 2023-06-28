@@ -40,7 +40,7 @@
 **General Changes**
 - Added a popup menu with the current version, version release date, and author 
 - Removed context menu item
-- Updated styling of profile dropdown menu
+- Updated styling of profile dropdown menu for non-admin users
 
   **Before**
 
