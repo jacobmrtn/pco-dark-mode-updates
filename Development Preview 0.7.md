@@ -6,6 +6,7 @@
 **Changes (Plans)**
   - Updated styling of the "Show more teams" button when viewing the Teams tab
   - Updated styling of the "Hide" button with viewing the Teams tab
+  - Updated styling of the Live items timing text for plan items
 
 **Changes (Dashboard)**
 - Updated styling of the topmost calendar month/date display
