@@ -3,10 +3,18 @@
 **Changes (Songs)**
   -  Added border around bottom page numbers 
 
+**Changes (Media)**
+  - Updated styling of the print button
+  - Updated styling of the clear filters button
+  - Updated styling of the "Edit Tags" button in the Filter menu under the "Tags" tab
+
 **Changes (Plans)**
   - Updated styling of the "Show more teams" button when viewing the Teams tab
   - Updated styling of the "Hide" button with viewing the Teams tab
   - Updated styling of the Live items timing text for plan items
+
+**Changes (Schedule)**
+  - Updated styling of the confirmed cards
 
 **Changes (Dashboard)**
 - Updated styling of the topmost calendar month/date display
@@ -45,3 +53,4 @@
 
 **General Changs**
   - Updated styling of the overflow attribute for the profile menu
+  - Updated styling of the "Account Settings" button in the app switcher 
