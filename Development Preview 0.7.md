@@ -5,6 +5,7 @@
 
 **Changes (People)**
   - Updated styling for "My Teams" selection menu `People > Teams Tab > My Teams`
+  - Updated styling for various dropdown menus 
 
 **Changes (Media)**
   - Updated styling of the print button
