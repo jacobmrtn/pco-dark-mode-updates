@@ -3,6 +3,9 @@
 **Changes (Songs)**
   -  Added border around bottom page numbers 
 
+**Changes (People)**
+  - Updated styling for "My Teams" selection menu `People > Teams Tab > My Teams`
+
 **Changes (Media)**
   - Updated styling of the print button
   - Updated styling of the clear filters button
