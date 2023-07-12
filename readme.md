@@ -53,6 +53,6 @@
   ![month-select-after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/8e5b9bd8-d2d1-44bd-bfdb-a96e0059e688)
 
 
-**General Changs**
+**General Changes**
   - Updated styling of the overflow attribute for the profile menu
   - Updated styling of the "Account Settings" button in the app switcher 
