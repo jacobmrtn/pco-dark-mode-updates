@@ -3,4 +3,5 @@
 ## Changes (Plans)
 -  Removed background color from sidebar SVG icons when minimized 
 
-## Changes (Plans)
+## General Changes
+-  Added styling for the "Groups" link in the app switcher
