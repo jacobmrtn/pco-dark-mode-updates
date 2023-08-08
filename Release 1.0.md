@@ -14,5 +14,8 @@
   ![after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/caeba325-27ab-437a-8dd2-1a52e983e7c7)
 
 
+## Changes (Matrix)
+- Added styling for the Matrix! (Custom colors will still override some backgrounds) 
+
 ## General Changes
 -  Added styling for the "Groups" link in the app switcher
