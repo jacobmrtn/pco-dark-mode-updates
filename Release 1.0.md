@@ -17,6 +17,7 @@
 ## Changes (Dashboard)
 - Fixed a bug that removed the border from the last listed service under the "Service Types" dropdown
 - Changed box-shadow styling for the "Add Plans" button that appears at the bottom of the "Service Types" dropdown menu
+- Changed the focus color of the "Accept" button on pending request cards
 
 ## Changes (Schedule)
 - Updated the "Service Time" & "Rehearsal Times" menus (LEFT: before RIGHT: after)
@@ -36,6 +37,6 @@
 - Added styling for the Matrix! (Custom colors will still override some backgrounds) 
 
 ## General Changes
--  Added styling for the "Groups" link in the app switcher
--  Adjusted the default green color for a lot of elements (currently selected plan item, name tags, dropdown text)
-![New Project (1)](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/ac4ced3e-1ec3-4d20-bed6-9f33ceef543d)
+- Fixed an issue where any calendar would take the styling of the "My Schedule" calendar 
+- Added styling for the "Groups" link in the app switcher
+- Adjusted the default green color for a lot of elements (currently selected plan item, name tags, dropdown text)
