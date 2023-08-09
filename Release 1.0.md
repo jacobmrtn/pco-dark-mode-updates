@@ -36,6 +36,9 @@
 ## Changes (Matrix)
 - Added styling for the Matrix! (Custom colors will still override some backgrounds) 
 
+## Changes (People)
+- Added styling for the "Templates" tab under the "Scheduling" tab
+
 ## General Changes
 - Fixed an issue where any calendar would take the styling of the "My Schedule" calendar 
 - Added styling for the "Groups" link in the app switcher
