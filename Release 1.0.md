@@ -3,6 +3,11 @@
 ## Changes (Plans)
 -  Removed background color from sidebar SVG icons when minimized
 -  Added styling for the process of creating a new folder
+-  Changed the background color for the "Share Worship Set" text under the Share menu
+-  Added hover effects for the "View" & "Edit" buttons under the "Editing Scheduled Person" menu
+
+## Changes (Songs)
+- Added styling for when the previous page button is disabled 
 
 ## Changes (Dashboard)
 - Fixed a bug that removed the border from the last listed service under the "Service Types" dropdown
