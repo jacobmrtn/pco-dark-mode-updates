@@ -4,10 +4,17 @@
 -  Removed background color from sidebar SVG icons when minimized
 
 ## Changes (Dashboard)
-- Fixed a bug that removed border from the last listed service under the "Service Types" dropdown
+- Fixed a bug that removed the border from the last listed service under the "Service Types" dropdown
 - Changed box-shadow styling for the "Add Plans" button that appears at the bottom of the "Service Types" dropdown menu
 
 ## Changes (Schedule)
+- Updated the "Service Time" & "Rehearsal Times" menus (LEFT: before RIGHT: after)
+  
+![fixed-rehearsal-before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/65082631-b6b0-4189-b20d-cd285abf8c6a)
+![fixed-rehearsal-after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/c84d8811-7921-49fa-9119-3c3f6dd8c679)
+
+
+  
 - Made it easier to see upcoming plans on the left sidebar under the calendar (LEFT: before RIGHT: after)
 
   ![before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/a4fa8b84-a560-497e-b083-491f048c51c9)
