@@ -2,6 +2,7 @@
 
 ## Changes (Plans)
 -  Removed background color from sidebar SVG icons when minimized
+-  Added styling for the process of creating a new folder
 
 ## Changes (Dashboard)
 - Fixed a bug that removed the border from the last listed service under the "Service Types" dropdown
