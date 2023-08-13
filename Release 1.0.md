@@ -5,6 +5,7 @@
 -  Added styling for the process of creating a new folder
 -  Changed the background color for the "Share Worship Set" text under the Share menu
 -  Added hover effects for the "View" & "Edit" buttons under the "Editing Scheduled Person" menu
+-  Changed the plan item drag icon to white when a user hovers over it
 -  Made it visually easier to add item notes to plans (LEFT: before RIGHT: after)
 
     ![plan-item-note-before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/83373de3-3c8c-4709-9262-5259deab78eb)
