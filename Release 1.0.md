@@ -45,4 +45,5 @@
 - Added styling for the "Groups" link in the app switcher
 - Changed the link color for apps in the app switcher
 - Adjusted the default green color for a lot of elements (currently selected plan item, name tags, dropdown text)
-- Added styling for a notification banner that may show occasionally 
+- Added styling for a notification banner that may show occasionally
+- Updated the prompt shown when deleting items
