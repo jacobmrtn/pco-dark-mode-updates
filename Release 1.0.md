@@ -47,3 +47,4 @@
 - Adjusted the default green color for a lot of elements (currently selected plan item, name tags, dropdown text)
 - Added styling for a notification banner that may show occasionally
 - Updated the prompt shown when deleting items
+- Added support for the new Tool Bar (including Tasks and the new notification center)
