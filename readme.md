@@ -1,22 +1,50 @@
-# Development Preview 0.9
+# Release 1.0
 
 ## Changes (Plans)
-- Updated styling for the "Set Rehearsal Teams" button
+-  Removed background color from sidebar SVG icons when minimized
+-  Added styling for the process of creating a new folder
+-  Changed the background color for the "Share Worship Set" text under the Share menu
+-  Added hover effects for the "View" & "Edit" buttons under the "Editing Scheduled Person" menu
+-  Changed the plan item drag icon to white when a user hovers over it
+-  Made it visually easier to add item notes to plans (LEFT: before RIGHT: after)
 
-    ### Before - Not easy to tell it's a button
-    ![before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/6c75a9d3-faa9-4fe2-83e8-506af2bcc32a)
-    
-    
-    ### After - Added a box-shadow and hover effect 
-    ![after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/b5ebc3a4-395a-40b2-be4d-49570c7fe432)
+    ![plan-item-note-before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/83373de3-3c8c-4709-9262-5259deab78eb)
+    ![plan-item-notes-after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/1e19f959-9b1f-46c9-adda-a2128c2fdd4e)
 
+
+## Changes (Songs)
+- Added styling for when the previous page button is disabled 
+
+## Changes (Dashboard)
+- Fixed a bug that removed the border from the last listed service under the "Service Types" dropdown
+- Changed box-shadow styling for the "Add Plans" button that appears at the bottom of the "Service Types" dropdown menu
+- Changed the focus color of the "Accept" button on pending request cards
+
+## Changes (Schedule)
+- Updated the "Service Time" & "Rehearsal Times" menus (LEFT: before RIGHT: after)
+  
+    ![fixed-rehearsal-before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/65082631-b6b0-4189-b20d-cd285abf8c6a)
+    ![fixed-rehearsal-after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/c84d8811-7921-49fa-9119-3c3f6dd8c679)
+
+
+  
+- Made it easier to see upcoming plans on the left sidebar under the calendar (LEFT: before RIGHT: after)
+
+    ![before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/a4fa8b84-a560-497e-b083-491f048c51c9)
+    ![after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/caeba325-27ab-437a-8dd2-1a52e983e7c7)
+
+
+## Changes (Matrix)
+- Added styling for the Matrix! (Custom colors will still override some backgrounds) 
+
+## Changes (People)
+- Added styling for the "Templates" tab under the "Scheduling" tab
 
 ## General Changes
-- Updated the styling of the vertical menu displayed when hovering over certain elements.
-
-    ### Before - Hard to distinguish the background from the vertical menu
-    ![before](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/31f11f29-92a7-47ad-8ec2-a91a7caf5727)
-    
-    
-    ### After - Added a box-shadow and removed the border between each button
-    ![after](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/80f230c5-c6ab-4863-baed-3922e0542f67)
+- Fixed an issue where any calendar would take the styling of the "My Schedule" calendar 
+- Added styling for the "Groups" link in the app switcher
+- Changed the link color for apps in the app switcher
+- Adjusted the default green color for a lot of elements (currently selected plan item, name tags, dropdown text)
+- Added styling for a notification banner that may show occasionally
+- Updated the prompt shown when deleting items
+- Added support for the new Tool Bar (including Tasks and the new notification center)
