@@ -9,3 +9,4 @@
 - Added support for the "Giving" app in the app-switcher
 - Added support extension support for https://planningcenteronline.com/
 - Added hover effects to the Tasks and Notification icons in the toolbar.
+- Removed box-shadow from some side-bar sections 
