@@ -10,3 +10,4 @@
 - Added support extension support for https://planningcenteronline.com/
 - Added hover effects to the Tasks and Notification icons in the toolbar.
 - Removed box-shadow from some side-bar sections 
+- Removed random box-shadow on the Plans page
