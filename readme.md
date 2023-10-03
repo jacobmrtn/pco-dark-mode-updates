@@ -1,13 +1,6 @@
-# Release 1.1
-
-## Changes (Songs)
-- Added support for the new "CCLI Auto-reporting" feature
-- Updated styling for the "Generate Report" button under the CCLI Settings
-- Updated hover effect when moving the mouse over page numbers 
+# Release 1.2
 
 ## General Changes
-- Added support for the "Giving" app in the app-switcher
-- Added support extension support for https://planningcenteronline.com/
-- Added hover effects to the Tasks and Notification icons in the toolbar.
-- Removed box-shadow from some side-bar sections 
-- Removed random box-shadow on the Plans page
+- Added support for people who have more than one organization linked to their account.
+- Fixed weird background color in the "Editing Scheduled Person" menu.
+- Other small styling changes (removed borders, changed various colors, updated popup menu) 
