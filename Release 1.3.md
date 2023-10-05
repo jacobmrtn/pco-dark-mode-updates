@@ -5,4 +5,5 @@
 - Updated the Save button when inside the "Edit File Details" Menu
 - Updated the licenses description text color when viewing inside the "Edit Files Menu"
 - Updated the file info description text color when viewing inside the "Edit Files Menu"
-
+- Updated the header background color for the "Add Media" menu
+- Updated the save button for the "Add Menu" menu
