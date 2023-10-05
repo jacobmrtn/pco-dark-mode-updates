@@ -1,4 +1,4 @@
-# Release 1.2
+# Release 1.3
 
 ## General Changes
 - Updated the Add files menu Title text color
