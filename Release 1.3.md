@@ -2,6 +2,7 @@
 
 ## Changes (Plans)
 - Updated the "Previous Plan" button background color when it's disabled
+- Updated various elements of the Teams workflow 
 
 ## General Changes
 - Updated the Add files menu Title text color
