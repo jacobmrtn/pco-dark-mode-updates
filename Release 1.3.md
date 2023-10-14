@@ -5,10 +5,11 @@
 - Updated various elements of the Teams workflow 
 
 ## General Changes
-- Updated the Add files menu Title text color
+- Updated the Add Files menu Title text color
 - Updated the Save button when inside the "Edit File Details" Menu
-- Updated the licenses description text color when viewing inside the "Edit Files Menu"
+- Updated the license description text color when viewing inside the "Edit Files Menu"
 - Updated the file info description text color when viewing inside the "Edit Files Menu"
 - Updated the header background color for the "Add Media" menu
 - Updated the save button for the "Add Menu" menu
 - Removed random red background color on one of the preset colors when selecting row colors
+- Added support for the new Services Team Automation feature 
