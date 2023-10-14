@@ -13,3 +13,4 @@
 - Updated the save button for the "Add Menu" menu
 - Removed random red background color on one of the preset colors when selecting row colors
 - Added support for the new Services Team Automation feature 
+- Redesigned "Linked Accounts" menu
