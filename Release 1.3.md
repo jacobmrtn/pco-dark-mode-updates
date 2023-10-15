@@ -14,4 +14,9 @@
 - Removed random red background color on one of the preset colors when selecting row colors
 - Added support for the new Services Team Automation feature 
 - Redesigned "Linked Accounts" menu
-- Fixed the "App switcher" box shadow
+- Fixed the "App switcher" box-shadow
+- Fixed some submenus not haveing the proper colors applied 
+
+## Upcoming 
+- The next update should introduce the ability to toggle PCO Dark Mode ON/OFF via the popup menu
+- A future update will fix the long-standing issue with custom item row colors becoming unpleasing to the eyes when enabled
