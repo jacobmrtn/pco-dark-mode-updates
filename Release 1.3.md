@@ -15,7 +15,7 @@
 - Added support for the new Services Team Automation feature 
 - Redesigned "Linked Accounts" menu
 - Fixed the "App switcher" box-shadow
-- Fixed some submenus not haveing the proper colors applied 
+- Fixed some submenus not having the proper colors applied 
 
 ## Upcoming 
 - The next update should introduce the ability to toggle PCO Dark Mode ON/OFF via the popup menu
