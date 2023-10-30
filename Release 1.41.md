@@ -28,3 +28,6 @@ This update brings bug fixes to the new Toggle option, as well as various fixes 
 
 # General Changes
 - Fixed bug in the Toggle menu caused by toggling the extension off while being on a different tab
+
+## Upcoming 
+- The next update will fix the long-standing issue with custom item row colors becoming unpleasing to the eyes when enabled
