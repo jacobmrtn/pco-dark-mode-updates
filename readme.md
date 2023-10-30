@@ -1,12 +1,33 @@
-# Release 1.4
+# Release 1.4.1
+This update brings bug fixes to the new Toggle option, as well as various fixes to incorrect styling
 
-## Changes (People)
-- Updated styling for Teams that have been unused
-- Updated styling for Teams with "Potential Errors"
+## Changes (Songs)
+- Fixed the filter menu hover color
+- Fixed filter menu title hover color
+- Fixed filter menu > Tags Tab > "Edit Tags" buttons
+- Fixed previous page button hover color
+- Fixed next page button color
+- Fixed page number hover color
+- Fixed the "Add Song" button color
+- Fixed the "Add Song" button hover color
 
-## General Changes
-- Added a new feature - It's now possible to toggle PCO Dark Mode ON/OFF right from the popup menu!
-  ![PCO Dark Mode Toggle](https://github.com/jacobmrtn/pco-dark-mode-updates/assets/135056345/1a8d8df7-8051-46a3-9221-c7d0998ca2b1)
+## Changes (My Schedule)
+- Fixed clock icon color on the schedule cards
+- Fixed the SVG icons for the "Primary Action" buttons
+
+## Changes (Plans)
+- Fixed the background color for some menu items
+- Fixed incorrect icon styling or some item
+- Fixed the "Add" button on the left sidebar
+
+## Changes (Matrix)
+- Fixed misc buttons not being styled correctly
+
+## Changes (Dashboard)
+- Updated various button styling
+
+# General Changes
+- Fixed bug in the Toggle menu caused by toggling the extension off while being on a different tab
 
 ## Upcoming 
 - The next update will fix the long-standing issue with custom item row colors becoming unpleasing to the eyes when enabled
