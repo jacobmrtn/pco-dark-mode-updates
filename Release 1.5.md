@@ -13,7 +13,7 @@
 - Updated "Show All Teams" button styling
 
 ## Changes (Schedule)
-- Updated styling for the button to subscribe to the calendaer 
+- Updated styling for the button to subscribe to the calendar 
 
 ## General Changes 
 - Updated various elements styling in the Tasks menu
