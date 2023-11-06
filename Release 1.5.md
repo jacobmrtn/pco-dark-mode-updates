@@ -11,11 +11,14 @@
 - Updated toggle service order columns button styling
 - Updated "Import template" button under the "Add" menu
 - Updated "Show All Teams" button styling
-- Updated the background hover effect that is displayed when moving cursor over a plan item to delete it
+- Updated the background hover effect that is displayed when moving the cursor over a plan item to delete it
 
 ## Changes (Schedule)
 - Updated styling for the button to subscribe to the calendar
 - Updated confirm and decline buttons on the cards in the pending section 
+
+## Changes (People)
+- Updated the background color for the search bar when team filters are selected
 
 ## General Changes 
 - Updated various elements styling in the Tasks menu
