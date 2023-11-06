@@ -8,6 +8,8 @@
 
 ## Changes (Plans)
 - Updated "Show All Teams" button styling
+- Updated toggle service order columns button styling
+- Updated "Import template" button under the "Add" menu
 
 ## General Changes 
 - Updated various elements styling in the Tasks menu
