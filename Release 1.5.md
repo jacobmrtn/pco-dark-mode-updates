@@ -12,6 +12,9 @@
 - Updated "Import template" button under the "Add" menu
 - Updated "Show All Teams" button styling
 
+## Changes (Schedule)
+- Updated styling for the button to subscribe to the calendaer 
+
 ## General Changes 
 - Updated various elements styling in the Tasks menu
 - Updated various elements in the Notifications menu
