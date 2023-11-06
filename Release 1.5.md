@@ -7,4 +7,5 @@
 - Updated the "Add Plan" button at the bottom of services lists 
 
 ## General Changes 
-- Updated various element styling in the Tasks menu
+- Updated various elements styling in the Tasks menu
+- Updated various elements in the Notifications menu
