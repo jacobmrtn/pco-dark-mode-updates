@@ -11,6 +11,7 @@
 - Updated toggle service order columns button styling
 - Updated "Import template" button under the "Add" menu
 - Updated "Show All Teams" button styling
+- Updated the background hover effect that is displayed when moving cursor or an plan item to delete it
 
 ## Changes (Schedule)
 - Updated styling for the button to subscribe to the calendar
