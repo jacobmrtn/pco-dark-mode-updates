@@ -10,6 +10,7 @@
 - Updated "Show All Teams" button styling
 - Updated toggle service order columns button styling
 - Updated "Import template" button under the "Add" menu
+- Updated "Show All Teams" button styling
 
 ## General Changes 
 - Updated various elements styling in the Tasks menu
