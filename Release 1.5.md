@@ -13,7 +13,8 @@
 - Updated "Show All Teams" button styling
 
 ## Changes (Schedule)
-- Updated styling for the button to subscribe to the calendar 
+- Updated styling for the button to subscribe to the calendar
+- Updated confirm and decline buttons on the cards in the pending section 
 
 ## General Changes 
 - Updated various elements styling in the Tasks menu
