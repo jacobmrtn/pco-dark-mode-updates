@@ -25,6 +25,12 @@
 ## Changes (People)
 - Updated the background color for the search bar when team filters are selected
 
+## Changes (Songs)
+- Updated styling for the "Download CSV", "Bulk Edit" and filter menu buttons
+
+## Changes (Media)
+- Updated styling for the "Print" menu and "Bulk Edit" buttons
+
 ## General Changes 
 - Updated various elements styling in the Tasks menu
 - Updated various elements in the Notifications menu
