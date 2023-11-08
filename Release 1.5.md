@@ -6,6 +6,7 @@
 - Updated the background of the dashboard page to make the service types stand out
 - Updated the Matrix, Settings, and Upcoming buttons 
 - Updated the "Add Plan" button at the bottom of services lists
+- Updated some calendar elements
 
 ## Changes (Plans)
 - Updated "Show All Teams" button styling
@@ -14,6 +15,7 @@
 - Updated "Show All Teams" button styling
 - Updated the background hover effect that is displayed when moving the cursor over a plan item to delete it
 - Updated the "Order of Service Table" background color to make it more visible
+- Updated some calendar elements
 
 ## Changes (Schedule)
 - Updated styling for the button to subscribe to the calendar
