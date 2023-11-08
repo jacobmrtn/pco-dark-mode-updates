@@ -28,3 +28,4 @@
 ## General Changes 
 - Updated various elements styling in the Tasks menu
 - Updated various elements in the Notifications menu
+- Fixed logout menu styling
