@@ -35,3 +35,4 @@
 - Updated various elements styling in the Tasks menu
 - Updated various elements in the Notifications menu
 - Fixed logout menu styling
+- Switched the storage method to allow syncing the extension status across devices 
