@@ -1,33 +1,38 @@
-# Release 1.4.1
-This update brings bug fixes to the new Toggle option, as well as various fixes to incorrect styling
-
-## Changes (Songs)
-- Fixed the filter menu hover color
-- Fixed filter menu title hover color
-- Fixed filter menu > Tags Tab > "Edit Tags" buttons
-- Fixed previous page button hover color
-- Fixed next page button color
-- Fixed page number hover color
-- Fixed the "Add Song" button color
-- Fixed the "Add Song" button hover color
-
-## Changes (My Schedule)
-- Fixed clock icon color on the schedule cards
-- Fixed the SVG icons for the "Primary Action" buttons
-
-## Changes (Plans)
-- Fixed the background color for some menu items
-- Fixed incorrect icon styling or some item
-- Fixed the "Add" button on the left sidebar
-
-## Changes (Matrix)
-- Fixed misc buttons not being styled correctly
+# Release 1.4.2
 
 ## Changes (Dashboard)
-- Updated various button styling
+- Updated the delete icon when you hover over a service to delete it.
+- Updated the Export/Copy icon when you hover over
+- Updated the background of the dashboard page to make the service types stand out
+- Updated the Matrix, Settings, and Upcoming buttons 
+- Updated the "Add Plan" button at the bottom of services lists
+- Updated some calendar elements
 
-# General Changes
-- Fixed bug in the Toggle menu caused by toggling the extension off while being on a different tab
+## Changes (Plans)
+- Updated "Show All Teams" button styling
+- Updated toggle service order columns button styling
+- Updated "Import template" button under the "Add" menu
+- Updated "Show All Teams" button styling
+- Updated the background hover effect that is displayed when moving the cursor over a plan item to delete it
+- Updated the "Order of Service Table" background color to make it more visible
+- Updated some calendar elements
 
-## Upcoming 
-- The next update will fix the long-standing issue with custom item row colors becoming unpleasing to the eyes when enabled
+## Changes (Schedule)
+- Updated styling for the button to subscribe to the calendar
+- Updated confirm and decline buttons on the cards in the pending section
+- Updated the backdrop background color to make forground objects more visible 
+
+## Changes (People)
+- Updated the background color for the search bar when team filters are selected
+
+## Changes (Songs)
+- Updated styling for the "Download CSV", "Bulk Edit" and filter menu buttons
+
+## Changes (Media)
+- Updated styling for the "Print" menu and "Bulk Edit" buttons
+
+## General Changes 
+- Updated various elements styling in the Tasks menu
+- Updated various elements in the Notifications menu
+- Fixed logout menu styling
+- Switched the storage method to allow syncing the extension status across devices 
