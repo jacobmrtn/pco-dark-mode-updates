@@ -1,4 +1,4 @@
-# Release 1.5
+# Release 1.4.2
 
 ## Changes (Dashboard)
 - Updated the delete icon when you hover over a service to delete it.
