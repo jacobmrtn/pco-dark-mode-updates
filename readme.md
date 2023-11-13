@@ -35,4 +35,7 @@
 - Updated various elements styling in the Tasks menu
 - Updated various elements in the Notifications menu
 - Fixed logout menu styling
-- Switched the storage method to allow syncing the extension status across devices 
+- Switched the storage method to allow syncing the extension status across devices
+
+  ## Upcoming 
+- The next update will fix the long-standing issue with custom item row colors becoming unpleasing to the eyes when enabled
