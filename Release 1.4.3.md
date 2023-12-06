@@ -19,3 +19,4 @@
 - Redesigned "Email These People" menu
 - Redesigned "Editing Scheduled Person" menu
 - Fixed incorrect hover effect when using bulk edit buttons 
+- Fixed task title input styling
