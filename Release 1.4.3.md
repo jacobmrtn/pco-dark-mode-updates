@@ -20,3 +20,6 @@
 - Redesigned "Editing Scheduled Person" menu
 - Fixed incorrect hover effect when using bulk edit buttons 
 - Fixed task title input styling
+  
+## Upcoming 
+- The next update will fix the long-standing issue with custom item row colors becoming unpleasing to the eyes when enabled
